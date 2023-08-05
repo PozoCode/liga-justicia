@@ -15,5 +15,7 @@ Esta es una prueba de push.
 ## Historial de Commits
 Estos cambios fueron agregados para visualizar múltiples commits en el historial
 
-## Errores en Pull
-Este cambio es para realizar una prueba de errores de pull desde local.
+
+## Prueba de errores pull GitHub
+Esta es una prueba de errores al hacer pull. Fue corregido de forma exitosa.
+
