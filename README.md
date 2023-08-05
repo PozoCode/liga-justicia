@@ -11,3 +11,6 @@ Este es un cambio directamente desde GitHub
 
 ## Push
 Esta es una prueba de push.
+
+## Historial de Commits
+Estos cambios fueron agregados para visualizar múltiples commits en el historial
