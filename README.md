@@ -14,3 +14,6 @@ Esta es una prueba de push.
 
 ## Historial de Commits
 Estos cambios fueron agregados para visualizar múltiples commits en el historial
+
+## Prueba de errores pull GitHub
+Esta es una prueba de errores al hacer pull.
